@@ -1,7 +1,7 @@
 ; Description: Inputs 4 integers and 
 ; displays them in reversed order.
 
-TITLE HW_5a
+TITLE MASM Template	(main.asm)
 
 INCLUDE Irvine32.inc
 .data

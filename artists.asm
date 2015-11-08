@@ -1,7 +1,7 @@
 ; Description: This program defines artists
 ; and outputs an artist's name.
 
-TITLE HW_3b
+TITLE MASM Template						(main.asm)
 
 INCLUDE Irvine32.inc
 .data

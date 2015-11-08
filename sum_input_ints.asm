@@ -1,7 +1,7 @@
 ; Description: Asks for a number of integers
 ; and sums them up.
 
-TITLE HW_5
+TITLE MASM Template	(main.asm)
 
 INCLUDE Irvine32.inc
 .data

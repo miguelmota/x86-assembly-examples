@@ -1,6 +1,6 @@
 ; Description: This program adds 4 sides.
 
-TITLE HW_3c
+TITLE MASM Template						(main.asm)
 
 INCLUDE Irvine32.inc
 .data

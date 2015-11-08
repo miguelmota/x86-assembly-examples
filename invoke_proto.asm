@@ -1,4 +1,4 @@
-TITLE HW_5
+TITLE MASM Template	(main.asm)
 
 INCLUDE Irvine32.inc
 

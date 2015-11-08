@@ -1,7 +1,7 @@
 ; Description: Creates constants and moves
 ; them to registers.
 
-TITLE HW_3a
+TITLE MASM Template	(main.asm)
 
 INCLUDE Irvine32.inc
 .data

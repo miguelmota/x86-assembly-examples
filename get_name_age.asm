@@ -1,6 +1,6 @@
 ; Description: User inputs name and age
 
-TITLE HW_5a
+TITLE MASM Template	(main.asm)
 
 INCLUDE Irvine32.inc
 .data
