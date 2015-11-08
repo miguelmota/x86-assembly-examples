@@ -1,6 +1,6 @@
 # Assembly examples
 
-These are some x86 Assembly language small programs I did while in college. Examples work with [Microsoft MASM](http://www.kipirvine.com/asm/gettingStartedVS2012/index.htm). Book used in class was [Assembly Language for x86 Processors (6th Edition)](http://kipirvine.com/asm/index6th.htm) by [Kip Irvine](http://kipirvine.com/).
+These are x86 Assembly language exercises I did while in college. Examples work with [Microsoft MASM](http://www.kipirvine.com/asm/gettingStartedVS2012/index.htm). Book used in class was [Assembly Language for x86 Processors (6th Edition)](http://kipirvine.com/asm/index6th.htm) by [Kip Irvine](http://kipirvine.com/).
 
 # License
 
