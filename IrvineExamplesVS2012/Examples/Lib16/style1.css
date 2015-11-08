@@ -1,0 +1,12 @@
+p { font-family: Verdana, arial; font-size:x-small}
+ol { font-family: Verdana, arial; font-size:x-small; line-height: 130%}
+h1 { font-family: Times New Roman; color: Red }
+h2 { font-family: "Times New Roman", Times, serif;color: Blue  ; font-weight: bold}
+h3 { font-family: Verdana,arial;color: Blue  }
+h4 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; font-weight: bold}
+td { font-family: Verdana, arial; font-size:10pt}
+pre  { font-family: Courier New,Courier; font-weight: bold; font-size:small }
+normal.bold   { font-family: Verdana, arial;; font-size:10pt; font-weight: bold   }
+ul { font-family: Verdana, arial; font-size:10pt} .normal {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; line-height: 120%}
+a {  text-decoration: none}
+a:hover {  text-decoration: underline}
